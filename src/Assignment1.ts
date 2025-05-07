@@ -110,7 +110,7 @@ async function squareAsync(n: number): Promise<number>{
         },1000)
     })
 }
-squareAsync(8)
+
 
 
 
